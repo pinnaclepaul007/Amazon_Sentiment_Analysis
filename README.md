@@ -58,7 +58,7 @@ This features is part of the Text Analytics on Power BI and was used to extract 
 
 ![b3](https://user-images.githubusercontent.com/105908253/234356824-49408cf1-92a0-4c34-b385-c9d979ac3dac.jpg)
 
-The key phrases was further used to form a word cloud.
+The key phrases was further used to form a word cloud. This is the graphical representation of text data that displays the most frequently occurring words from the customers' review. This summarize and visualize textual data by highlighting the most prominent words or phrases from the review_text column
 
 ![b4](https://user-images.githubusercontent.com/105908253/234356959-096a395f-188f-46ac-a7ea-f1d8a302e1b9.jpg)
 
@@ -80,6 +80,8 @@ A ribbon chart was used to show how the sentiment analysis has changed over time
 
 # RESULT:
 After completing the above actions, I achieved an accuracy of 95% in classifying customer feedback into positive, negative, or neutral categories. This model can help the organization to understand their customers' feedback better and focus on areas where their customers are facing issues.
+
+![Amazon Sentiment Analysis](https://user-images.githubusercontent.com/105908253/234388831-c60d6bfb-2114-40c5-b2da-75d01060d068.jpg)
 
 The overall result of this project is that the sentiment analysis model can accurately categorize customer feedback, providing valuable insights into areas that need improvement. This model can be incorporated into the organization's feedback management system, allowing them to prioritize areas that need attention. This way, the company can provide revelant and efficient solutions to customers' feedback. This, without doubt will produce more loyal Customers to the company, increase the business visibility, brand value, and profit.
 
