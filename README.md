@@ -85,4 +85,7 @@ The overall result of this project is that the sentiment analysis model can accu
 
 Thank you for reading. I hope you got value for your time.
 
+You can access the live dashboard [here](https://app.powerbi.com/groups/me/reports/a85b8914-e415-4027-92f7-f0f6e5067e91/ReportSection?clientSideAuth=0)
+
 You can further reach me on LinkedIn [@PaulAderounmu](https://www.linkedin.com/in/pauladerounmu) and on twitter [@pinnacle_paul](https://twitter.com/pinnacle_paul)
+
