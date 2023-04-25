@@ -54,7 +54,7 @@ This formula uses an if-else statement to classify the sentiment score based on 
 ![b5](https://user-images.githubusercontent.com/105908253/234356538-1b531823-fda8-4a70-ae3c-df9f08636408.jpg)
 
 # Key Phrase Extraction:
-This features is part of the Text Analytics on Power BI and was used to extract the most important phrases from the “Review_text” column, which can be used to identify topics and themes.
+This feature is part of the Text Analytics on Power BI and was used to extract the most important phrases from the “Review_text” column, which can be used to identify topics and themes.
 
 ![b3](https://user-images.githubusercontent.com/105908253/234356824-49408cf1-92a0-4c34-b385-c9d979ac3dac.jpg)
 
